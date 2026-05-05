@@ -2,7 +2,8 @@
 
 This project, `HammerTime`, is a robust **backend system** for an *online auction platform*. It provides a structured way to handle all aspects of an auction, from managing product listings and bids to user authentication and order processing. The system also includes automated tasks to ensure *auction lifecycles* are smoothly managed, such as identifying winning bids and processing orders once an auction ends.
 
-#### Note: The project runs on java 21
+> [!IMPORTANT]
+> This project requires **Java 21** to run.
 #### Steps: 
 Step 1: Select the root folder, run `mvn clean install` to download the required packages.
 </br>
